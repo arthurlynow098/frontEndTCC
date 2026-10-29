@@ -1,0 +1,29 @@
+<p align="center"><img src="https://raw.githubusercontent.com/arthurlynow098/arthurlynow098/main/assets/ars-codex-banner.png" alt="Arthur Mendes Entsev — gravura alquímica minimalista" width="100%"></p>
+
+<p align="center"><sub>☉ &nbsp; ARS CODEX &nbsp; · &nbsp; frontEndTCC &nbsp; ☽</sub></p>
+
+---
+
+# frontEndTCC
+
+## Sobre o projeto
+
+Recursos iniciais de interface para um TCC: fragmento HTML de cabeçalho, estilos globais e imagem. A árvore atual não apresenta uma aplicação completa com ponto de entrada.
+
+## Como explorar
+
+Consulte `header.html` e `globals.css`. Como não há página inicial completa na raiz, esses recursos precisam ser integrados ao restante da interface.
+
+## Mapa do repositório
+
+- [globals.css](globals.css)
+- [header.html](header.html)
+- [img](img) — diretório
+
+## Desenvolvimento
+
+As instruções acima descrevem os arquivos disponíveis. A execução da aplicação não foi validada nesta revisão de documentação.
+
+---
+
+<p align="center"><sub>☿ &nbsp; Estudo · construção · evolução &nbsp; ☿</sub><br><a href="https://github.com/arthurlynow098">Perfil</a> · <a href="https://arthurentsev.vercel.app/">Portfólio</a></p>
