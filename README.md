@@ -4,7 +4,7 @@
 
 <p align="center">Interface web desenvolvida para o trabalho de conclusão de curso.</p>
 
-<p align="center"><img src="assets/docs/tags.svg" alt="HTML · CSS · JavaScript" width="72%"></p>
+<p align="center"><img src="assets/docs/tags.svg" alt="HTML · CSS · JavaScript" width="100%"></p>
 
 <p align="center"><a href="#visão-geral">Visão geral</a> &nbsp;·&nbsp; <a href="#recursos">Recursos</a> &nbsp;·&nbsp; <a href="#como-executar">Como executar</a></p>
 
@@ -16,11 +16,12 @@
 
 ![Mapa visual dos arquivos e responsabilidades](assets/docs/map.svg)
 
-| Área | O que você encontra | Acesso direto |
-|---|---|---|
-| **Página** | Marcação HTML da interface. | [Abrir página →](header.html) |
-| **Estilos** | Estilos compartilhados da página. | [Abrir estilos →](globals.css) |
-| **Imagens** | Recursos visuais usados no front-end. | [Abrir imagens →](img) |
+<table width="100%">
+<tr><th align="left">Área</th><th align="left">O que você encontra</th><th align="left">Acesso direto</th></tr>
+<tr><td><strong>Página</strong></td><td>Marcação HTML da interface.</td><td><a href="header.html">Abrir página →</a></td></tr>
+<tr><td><strong>Estilos</strong></td><td>Estilos compartilhados da página.</td><td><a href="globals.css">Abrir estilos →</a></td></tr>
+<tr><td><strong>Imagens</strong></td><td>Recursos visuais usados no front-end.</td><td><a href="img">Abrir imagens →</a></td></tr>
+</table>
 
 <a id="visão-geral"></a>
 
