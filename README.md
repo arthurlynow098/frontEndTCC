@@ -1,6 +1,4 @@
-<p align="center">
-  <img src="assets/identity/banner.png" alt="frontEndTCC" width="100%">
-</p>
+<p align="center"><img src="assets/frontendtcc-banner.jpg" width="100%" alt="frontEndTCC"></p>
 
 <p align="center">Interface web desenvolvida para o trabalho de conclusão de curso.</p>
 
