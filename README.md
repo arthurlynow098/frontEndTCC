@@ -1,47 +1,46 @@
 <p align="center">
-  <img src="assets/banner-v2.png" alt="frontEndTCC" width="100%">
+  <img src="assets/identity/banner.png" alt="frontEndTCC" width="100%">
 </p>
 
 <p align="center">Interface web desenvolvida para o trabalho de conclusão de curso.</p>
 
-<p align="center"><img src="assets/docs/tags.svg" alt="HTML · CSS · JavaScript" width="100%"></p>
 
 <p align="center"><a href="#visão-geral">Visão geral</a> &nbsp;·&nbsp; <a href="#recursos">Recursos</a> &nbsp;·&nbsp; <a href="#como-executar">Como executar</a></p>
 
----
+<p align="center"><img src="assets/identity/divider.svg" alt="" width="100%"></p>
 
 <a id="explore-o-projeto"></a>
 
-![Explore o projeto](assets/docs/section-01.svg)
+## Por onde começar
 
-![Mapa visual dos arquivos e responsabilidades](assets/docs/map.svg)
 
-<table width="100%">
-<tr><th align="left">Área</th><th align="left">O que você encontra</th><th align="left">Acesso direto</th></tr>
-<tr><td><strong>Página</strong></td><td>Marcação HTML da interface.</td><td><a href="header.html">Abrir página →</a></td></tr>
-<tr><td><strong>Estilos</strong></td><td>Estilos compartilhados da página.</td><td><a href="globals.css">Abrir estilos →</a></td></tr>
-<tr><td><strong>Imagens</strong></td><td>Recursos visuais usados no front-end.</td><td><a href="img">Abrir imagens →</a></td></tr>
-</table>
+- **[Página](header.html)** — Marcação HTML da interface.
+- **[Estilos](globals.css)** — Estilos compartilhados da página.
+- **[Imagens](img)** — Recursos visuais usados no front-end.
+
 
 <a id="visão-geral"></a>
 
-![Visão geral](assets/docs/section-02.svg)
+## Visão geral
 
 Este repositório preserva o componente base de interface (header.html), a folha de estilos global (globals.css) e o logotipo com fundo transparente (img/), estruturados para integração direta às páginas principais do projeto.
 
 <a id="recursos"></a>
 
-![Recursos](assets/docs/section-03.svg)
+## Recursos
 
-| Recurso | Como funciona |
-|---|---|
-| Cabeçalho reutilizável | header.html estrutura a barra superior com marca e links de navegação prontos para inclusão nas páginas. |
-| Reset e estilos globais | globals.css padroniza margens, tipografia, cores e comportamento responsivo dos elementos base. |
-| Ativo gráfico otimizado | Logotipo em PNG com fundo transparente na pasta img/ para sobreposição limpa em diferentes temas. |
+**Cabeçalho reutilizável**<br>
+header.html estrutura a barra superior com marca e links de navegação prontos para inclusão nas páginas.
+
+**Reset e estilos globais**<br>
+globals.css padroniza margens, tipografia, cores e comportamento responsivo dos elementos base.
+
+**Ativo gráfico otimizado**<br>
+Logotipo em PNG com fundo transparente na pasta img/ para sobreposição limpa em diferentes temas.
 
 <a id="tecnologias"></a>
 
-![Tecnologias](assets/docs/section-04.svg)
+## Tecnologias
 
 - **HTML5 (header.html)** para marcação semântica do componente de topo;
 - **CSS3 (globals.css)** para regras de layout, flexbox e variáveis visuais.
@@ -64,7 +63,7 @@ flowchart LR
 ```text
 frontEndTCC/
 ├── assets/
-│   └── banner-v2.png               Banner do projeto
+│   └── identity/banner.png               Banner do projeto
 ├── img/                            Logotipo e recursos visuais da barra superior
 ├── globals.css                     Regras globais de estilização e layout
 ├── header.html                     Estrutura HTML do componente de cabeçalho
@@ -75,7 +74,7 @@ frontEndTCC/
 
 <a id="como-executar"></a>
 
-![Como executar](assets/docs/section-05.svg)
+## Como executar
 
 1. Clone o repositório:
    ```bash
@@ -83,7 +82,7 @@ frontEndTCC/
    ```
 2. Abra o arquivo header.html no navegador ou com a extensão *Live Server* do VS Code para inspecionar o componente renderizado junto ao globals.css.
 
----
+<p align="center"><img src="assets/identity/divider.svg" alt="" width="100%"></p>
 
 <p align="center">
   <a href="https://github.com/arthurlynow098">GitHub</a> &nbsp;·&nbsp;
