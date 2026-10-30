@@ -4,21 +4,33 @@
 
 <p align="center">Interface web desenvolvida para o trabalho de conclusão de curso.</p>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/HTML-C52E36?style=flat-square" alt="HTML">
-  <img src="https://img.shields.io/badge/CSS-24272E?style=flat-square" alt="CSS">
-  <img src="https://img.shields.io/badge/JavaScript-24272E?style=flat-square" alt="JavaScript">
-</p>
+<p align="center"><img src="assets/docs/tags.svg" alt="HTML · CSS · JavaScript" width="72%"></p>
 
 <p align="center"><a href="#visão-geral">Visão geral</a> &nbsp;·&nbsp; <a href="#recursos">Recursos</a> &nbsp;·&nbsp; <a href="#como-executar">Como executar</a></p>
 
 ---
 
-## Visão geral
+<a id="explore-o-projeto"></a>
+
+![Explore o projeto](assets/docs/section-01.svg)
+
+![Mapa visual dos arquivos e responsabilidades](assets/docs/map.svg)
+
+| Área | O que você encontra | Acesso direto |
+|---|---|---|
+| **Página** | Marcação HTML da interface. | [Abrir página →](header.html) |
+| **Estilos** | Estilos compartilhados da página. | [Abrir estilos →](globals.css) |
+| **Imagens** | Recursos visuais usados no front-end. | [Abrir imagens →](img) |
+
+<a id="visão-geral"></a>
+
+![Visão geral](assets/docs/section-02.svg)
 
 Este repositório preserva o componente base de interface (header.html), a folha de estilos global (globals.css) e o logotipo com fundo transparente (img/), estruturados para integração direta às páginas principais do projeto.
 
-## Recursos
+<a id="recursos"></a>
+
+![Recursos](assets/docs/section-03.svg)
 
 | Recurso | Como funciona |
 |---|---|
@@ -26,7 +38,9 @@ Este repositório preserva o componente base de interface (header.html), a folha
 | Reset e estilos globais | globals.css padroniza margens, tipografia, cores e comportamento responsivo dos elementos base. |
 | Ativo gráfico otimizado | Logotipo em PNG com fundo transparente na pasta img/ para sobreposição limpa em diferentes temas. |
 
-## Tecnologias
+<a id="tecnologias"></a>
+
+![Tecnologias](assets/docs/section-04.svg)
 
 - **HTML5 (header.html)** para marcação semântica do componente de topo;
 - **CSS3 (globals.css)** para regras de layout, flexbox e variáveis visuais.
@@ -49,7 +63,7 @@ flowchart LR
 ```text
 frontEndTCC/
 ├── assets/
-│   └── project-animal.png          Emblema do projeto
+│   └── banner-v2.png               Banner do projeto
 ├── img/                            Logotipo e recursos visuais da barra superior
 ├── globals.css                     Regras globais de estilização e layout
 ├── header.html                     Estrutura HTML do componente de cabeçalho
@@ -58,7 +72,9 @@ frontEndTCC/
 
 </details>
 
-## Como executar
+<a id="como-executar"></a>
+
+![Como executar](assets/docs/section-05.svg)
 
 1. Clone o repositório:
    ```bash
