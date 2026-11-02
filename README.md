@@ -1,11 +1,11 @@
-<p align="center"><img src="assets/frontendtcc-banner.jpg" width="100%" alt="frontEndTCC"></p>
+<p align="center"><img src="assets/identity-v2/banner.png" alt="Front-end TCC — Interface web · experiência visual" width="100%"></p>
 
 <p align="center">Interface web desenvolvida para o trabalho de conclusão de curso.</p>
 
 
 <p align="center"><a href="#visão-geral">Visão geral</a> &nbsp;·&nbsp; <a href="#recursos">Recursos</a> &nbsp;·&nbsp; <a href="#como-executar">Como executar</a></p>
 
-<p align="center"><img src="assets/identity/divider.svg" alt="" width="100%"></p>
+---
 
 <a id="explore-o-projeto"></a>
 
@@ -19,7 +19,7 @@
 
 <a id="visão-geral"></a>
 
-## Visão geral
+## Sobre o projeto
 
 Este repositório preserva o componente base de interface (header.html), a folha de estilos global (globals.css) e o logotipo com fundo transparente (img/), estruturados para integração direta às páginas principais do projeto.
 
@@ -43,8 +43,8 @@ Logotipo em PNG com fundo transparente na pasta img/ para sobreposição limpa e
 - **HTML5 (header.html)** para marcação semântica do componente de topo;
 - **CSS3 (globals.css)** para regras de layout, flexbox e variáveis visuais.
 
-<details>
-<summary>Arquitetura</summary>
+## Arquitetura
+
 
 ```mermaid
 flowchart LR
@@ -53,10 +53,9 @@ flowchart LR
     C --> D["Integração nas Telas do TCC"]
 ```
 
-</details>
 
-<details>
-<summary>Estrutura do repositório</summary>
+## Estrutura do repositório
+
 
 ```text
 frontEndTCC/
@@ -68,7 +67,6 @@ frontEndTCC/
 └── README.md
 ```
 
-</details>
 
 <a id="como-executar"></a>
 
@@ -80,10 +78,16 @@ frontEndTCC/
    ```
 2. Abra o arquivo header.html no navegador ou com a extensão *Live Server* do VS Code para inspecionar o componente renderizado junto ao globals.css.
 
-<p align="center"><img src="assets/identity/divider.svg" alt="" width="100%"></p>
+---
 
 <p align="center">
   <a href="https://github.com/arthurlynow098">GitHub</a> &nbsp;·&nbsp;
   <a href="https://arthurentsev.vercel.app/">Portfólio</a> &nbsp;·&nbsp;
   <a href="https://www.linkedin.com/in/entsevarthur/">LinkedIn</a>
 </p>
+
+## Identidade visual e créditos
+
+**Borboleta** — Transformação e expressão visual. [Logo em PNG](assets/identity-v2/logo.png).
+
+Identidade organizada a partir das artes fornecidas por Arthur Entsev. Direção visual e organização documental inspiradas em [LynowCut](https://github.com/arthurlynow098/LynowCut) e [LynowCatch](https://github.com/arthurlynow098/LynowCatch). Tipografia **Inter**, com licença SIL Open Font License em [Inter-OFL.txt](assets/identity-v2/Inter-OFL.txt).
