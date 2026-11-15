@@ -21,9 +21,9 @@
 <p><img src="assets/identity-v2/section-01.svg" alt="Por onde começar" width="100%"></p>
 
 
-- **[Página](header.html)** — Marcação HTML da interface.
-- **[Estilos](globals.css)** — Estilos compartilhados da página.
-- **[Imagens](img)** — Recursos visuais usados no front-end.
+- **[Página](header.html)**, marcação HTML da interface.
+- **[Estilos](globals.css)**, estilos compartilhados da página.
+- **[Imagens](img)**, recursos visuais usados no front-end.
 
 
 <a id="visão-geral"></a>
@@ -55,7 +55,7 @@ Logotipo em PNG com fundo transparente na pasta img/ para sobreposição limpa e
 
 <p><img src="assets/identity-v2/section-04.svg" alt="Tecnologias" width="100%"></p>
 
-- **HTML5 (header.html)** para marcação semântica do componente de topo;
+- **HTML5 (header.html)** para marcação semântica do componente de topo
 - **CSS3 (globals.css)** para regras de layout, flexbox e variáveis visuais.
 
 <a id="arquitetura"></a>
@@ -93,7 +93,7 @@ frontEndTCC/
 
 <p><img src="assets/identity-v2/section-07.svg" alt="Como executar" width="100%"></p>
 
-1. Clone o repositório:
+1. Clone o repositório
    ```bash
    git clone https://github.com/arthurlynow098/frontEndTCC.git
    ```
@@ -113,6 +113,6 @@ frontEndTCC/
 
 <table><tr><td width="150"><img src="assets/identity-v2/logo.png" alt="Borboleta" width="130"></td><td><strong>Borboleta</strong><br>Transformação e expressão visual.<br><br><a href="assets/identity-v2/logo.png">Logo em PNG</a> · <a href="assets/identity-v2/banner.png">Banner em PNG</a></td></tr></table>
 
-Artes da coleção fornecida por **Arthur Entsev**, com adaptação das logos e acabamento dos banners realizados com auxílio de geração de imagens. Referências de identidade e apresentação: [LynowCut](https://github.com/arthurlynow098/LynowCut), [LynowMic](https://github.com/arthurlynow098/LynowMic) e [LynowCatch](https://github.com/arthurlynow098/LynowCatch). Os créditos e avisos do conteúdo original foram preservados.
+Artes da coleção fornecida por **Arthur Entsev**, com adaptação das logos e acabamento dos banners realizados com auxílio de geração de imagens. Referências de identidade e apresentação, [LynowCut](https://github.com/arthurlynow098/LynowCut), [LynowMic](https://github.com/arthurlynow098/LynowMic) e [LynowCatch](https://github.com/arthurlynow098/LynowCatch). Os créditos e avisos do conteúdo original foram preservados.
 
 <p align="center"><a href="#top">Voltar ao topo ↑</a> · <a href="https://github.com/arthurlynow098">Arthur Entsev</a> · <a href="https://arthurentsev.vercel.app/">Portfólio</a></p>
