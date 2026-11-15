@@ -1,5 +1,9 @@
 <a id="top"></a>
 
+<p align="center"><sub>Front-end TCC</sub></p>
+
+---
+
 <p align="center"><img src="assets/identity-v2/banner.png" alt="Front-end TCC" width="100%"></p>
 
 <p align="center">Interface web desenvolvida para o trabalho de conclusão de curso.</p>
@@ -10,35 +14,29 @@
 <img alt="Front-end" src="https://img.shields.io/badge/Front--end-D64C91?style=for-the-badge&amp;logo=github&amp;logoColor=white">
 </p>
 
-
 <p align="center"><a href="#visão-geral">Visão geral</a> &nbsp;·&nbsp; <a href="#recursos">Recursos</a> &nbsp;·&nbsp; <a href="#como-executar">Como executar</a></p>
-
 
 <a id="explore-o-projeto"></a>
 
 <a id="por-onde-começar"></a>
 
-<p><img src="assets/identity-v2/section-01.svg" alt="Por onde começar" width="100%"></p>
-
+## Por onde começar
 
 - **[Página](header.html)**, marcação HTML da interface.
 - **[Estilos](globals.css)**, estilos compartilhados da página.
 - **[Imagens](img)**, recursos visuais usados no front-end.
 
-
 <a id="visão-geral"></a>
 
 <a id="sobre-o-projeto"></a>
 
-<p><img src="assets/identity-v2/section-02.svg" alt="Sobre o projeto" width="100%"></p>
+## Sobre o projeto
 
 Este repositório preserva o componente base de interface (header.html), a folha de estilos global (globals.css) e o logotipo com fundo transparente (img/), estruturados para integração direta às páginas principais do projeto.
 
 <a id="recursos"></a>
 
-
-
-<p><img src="assets/identity-v2/section-03.svg" alt="Recursos" width="100%"></p>
+## Recursos
 
 **Cabeçalho reutilizável**<br>
 header.html estrutura a barra superior com marca e links de navegação prontos para inclusão nas páginas.
@@ -51,17 +49,14 @@ Logotipo em PNG com fundo transparente na pasta img/ para sobreposição limpa e
 
 <a id="tecnologias"></a>
 
-
-
-<p><img src="assets/identity-v2/section-04.svg" alt="Tecnologias" width="100%"></p>
+## Tecnologias
 
 - **HTML5 (header.html)** para marcação semântica do componente de topo
 - **CSS3 (globals.css)** para regras de layout, flexbox e variáveis visuais.
 
 <a id="arquitetura"></a>
 
-<p><img src="assets/identity-v2/section-05.svg" alt="Arquitetura" width="100%"></p>
-
+## Arquitetura
 
 ```mermaid
 flowchart LR
@@ -70,11 +65,9 @@ flowchart LR
     C --> D["Integração nas Telas do TCC"]
 ```
 
-
 <a id="estrutura-do-repositório"></a>
 
-<p><img src="assets/identity-v2/section-06.svg" alt="Estrutura do repositório" width="100%"></p>
-
+## Estrutura do repositório
 
 ```text
 frontEndTCC/
@@ -86,12 +79,9 @@ frontEndTCC/
 └── README.md
 ```
 
-
 <a id="como-executar"></a>
 
-
-
-<p><img src="assets/identity-v2/section-07.svg" alt="Como executar" width="100%"></p>
+## Como executar
 
 1. Clone o repositório
    ```bash
@@ -99,17 +89,15 @@ frontEndTCC/
    ```
 2. Abra o arquivo header.html no navegador ou com a extensão *Live Server* do VS Code para inspecionar o componente renderizado junto ao globals.css.
 
-
 <p align="center">
   <a href="https://github.com/arthurlynow098">GitHub</a> &nbsp;·&nbsp;
   <a href="https://arthurentsev.vercel.app/">Portfólio</a> &nbsp;·&nbsp;
   <a href="https://www.linkedin.com/in/entsevarthur/">LinkedIn</a>
 </p>
 
-
 <a id="identidade-e-créditos"></a>
 
-<p><img src="assets/identity-v2/section-08.svg" alt="Identidade e créditos" width="100%"></p>
+## Identidade e créditos
 
 <table><tr><td width="150"><img src="assets/identity-v2/logo.png" alt="Borboleta" width="130"></td><td><strong>Borboleta</strong><br>Transformação e expressão visual.<br><br><a href="assets/identity-v2/logo.png">Logo em PNG</a> · <a href="assets/identity-v2/banner.png">Banner em PNG</a></td></tr></table>
 
