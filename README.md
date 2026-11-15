@@ -1,6 +1,6 @@
 <a id="top"></a>
 
-<p align="center"><img src="assets/identity-v2/banner.png" alt="Front-end TCC" width="100%"></p>
+<p align="center"><img src="assets/banner.png" alt="Front-end TCC" width="100%"></p>
 
 <p align="center">Interface web desenvolvida para o trabalho de conclusão de curso.</p>
 
@@ -18,7 +18,7 @@
 
 <a id="por-onde-começar"></a>
 
-<p><img src="assets/identity-v2/section-01.svg" alt="Por onde começar" width="100%"></p>
+<p><img src="assets/secao-01.png" alt="Por onde começar" width="100%"></p>
 
 
 - **[Página](header.html)**, marcação HTML da interface.
@@ -30,7 +30,7 @@
 
 <a id="sobre-o-projeto"></a>
 
-<p><img src="assets/identity-v2/section-02.svg" alt="Sobre o projeto" width="100%"></p>
+<p><img src="assets/secao-02.png" alt="Sobre o projeto" width="100%"></p>
 
 Este repositório preserva o componente base de interface (header.html), a folha de estilos global (globals.css) e o logotipo com fundo transparente (img/), estruturados para integração direta às páginas principais do projeto.
 
@@ -38,7 +38,7 @@ Este repositório preserva o componente base de interface (header.html), a folha
 
 
 
-<p><img src="assets/identity-v2/section-03.svg" alt="Recursos" width="100%"></p>
+<p><img src="assets/secao-03.png" alt="Recursos" width="100%"></p>
 
 **Cabeçalho reutilizável**<br>
 header.html estrutura a barra superior com marca e links de navegação prontos para inclusão nas páginas.
@@ -53,14 +53,14 @@ Logotipo em PNG com fundo transparente na pasta img/ para sobreposição limpa e
 
 
 
-<p><img src="assets/identity-v2/section-04.svg" alt="Tecnologias" width="100%"></p>
+<p><img src="assets/secao-04.png" alt="Tecnologias" width="100%"></p>
 
 - **HTML5 (header.html)** para marcação semântica do componente de topo
 - **CSS3 (globals.css)** para regras de layout, flexbox e variáveis visuais.
 
 <a id="arquitetura"></a>
 
-<p><img src="assets/identity-v2/section-05.svg" alt="Arquitetura" width="100%"></p>
+<p><img src="assets/secao-05.png" alt="Arquitetura" width="100%"></p>
 
 
 ```mermaid
@@ -73,7 +73,7 @@ flowchart LR
 
 <a id="estrutura-do-repositório"></a>
 
-<p><img src="assets/identity-v2/section-06.svg" alt="Estrutura do repositório" width="100%"></p>
+<p><img src="assets/secao-06.png" alt="Estrutura do repositório" width="100%"></p>
 
 
 ```text
@@ -91,7 +91,7 @@ frontEndTCC/
 
 
 
-<p><img src="assets/identity-v2/section-07.svg" alt="Como executar" width="100%"></p>
+<p><img src="assets/secao-07.png" alt="Como executar" width="100%"></p>
 
 1. Clone o repositório
    ```bash
@@ -109,9 +109,9 @@ frontEndTCC/
 
 <a id="identidade-e-créditos"></a>
 
-<p><img src="assets/identity-v2/section-08.svg" alt="Identidade e créditos" width="100%"></p>
+<p><img src="assets/secao-08.png" alt="Identidade e créditos" width="100%"></p>
 
-<table><tr><td width="150"><img src="assets/identity-v2/logo.png" alt="Borboleta" width="130"></td><td><strong>Borboleta</strong><br>Transformação e expressão visual.<br><br><a href="assets/identity-v2/logo.png">Logo em PNG</a> · <a href="assets/identity-v2/banner.png">Banner em PNG</a></td></tr></table>
+<table><tr><td width="150"><img src="assets/identity-v2/logo.png" alt="Borboleta" width="130"></td><td><strong>Borboleta</strong><br>Transformação e expressão visual.<br><br><a href="assets/identity-v2/logo.png">Logo em PNG</a> · <a href="assets/banner.png">Banner em PNG</a></td></tr></table>
 
 Artes da coleção fornecida por **Arthur Entsev**, com adaptação das logos e acabamento dos banners realizados com auxílio de geração de imagens. Referências de identidade e apresentação, [LynowCut](https://github.com/arthurlynow098/LynowCut), [LynowMic](https://github.com/arthurlynow098/LynowMic) e [LynowCatch](https://github.com/arthurlynow098/LynowCatch). Os créditos e avisos do conteúdo original foram preservados.
 
